@@ -1,3 +1,6 @@
+## NOTE: always leave space before and after <-, -, +, *, /. Leave a blank after commas. Leave blanks around 
+## <, >, ==, <=, =>, etc.
+
 ########Problem 1#########
 #a)
 x<-c(4,1,1,4)
